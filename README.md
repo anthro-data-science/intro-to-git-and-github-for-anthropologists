@@ -9,11 +9,11 @@ Our workshop slides will be included in this repository.
 - Welcome and schedule of workshop 
 - Motivation for using Git and GitHub: why is this good to use? What is it similar to? 
 - Define key tools & concepts such as Git, GitHub, remote, local, commit, push, pull 
-    + Activity 1: Create a GitHub account and follow some people , tour of github page
+    + Activity 1: Create a GitHub account and follow some people, tour of GitHub page
 - Define fork, clone and pull request 
     + Activity 2: need to work in pairs, learn to fork, commit, and pull requests on GitHub. Add a new file, add text to that file. Look at commit history and blame view on GitHub 
 - Collaborating and resolving merge conflicts 
-    + Activity 3: need to work in pairs, learn to collaborate with Git & RStudio. Do the full cycle of Fork, clone, commit, identify and resolve merge conflicts (20 mins)
+    + Activity 3: need to work in pairs, learn to collaborate with Git & RStudio. Do the full cycle of fork, clone, commit, identify and resolve merge conflicts (20 mins)
 - Summary and conclusion 
 
 ## Setup instructions
