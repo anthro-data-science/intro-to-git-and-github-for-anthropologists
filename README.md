@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub for Anthropologists
+# Introduction to Git and GitHub for Social Scientists
 
 Liying Wang, Anwesha Pan, Gayoung Park, Delaney Glass, Ben Marwick
 
@@ -9,11 +9,11 @@ Our workshop slides will be included in this repository.
 - Welcome and schedule of workshop 
 - Motivation for using Git and GitHub: why is this good to use? What is it similar to? 
 - Define key tools & concepts such as Git, GitHub, remote, local, commit, push, pull 
-    + Activity 1: Create a GitHub account and follow some people, tour of GitHub page
+    + Activity 1: tour of GitHub page, go to your GitHub account and follow some people, make a repository
 - Define fork, clone and pull request 
-    + Activity 2: need to work in pairs, learn to fork, commit, and pull requests on GitHub. Add a new file, add text to that file. Look at commit history and blame view on GitHub 
+    + Activity 2: need to work in pairs, learn to fork, commit, and pull requests on GitHub. Using RStudio for cloning, editing, and pushing. Look at commit history and blame view on GitHub 
 - Collaborating and resolving merge conflicts 
-    + Activity 3: need to work in pairs, learn to collaborate with Git & RStudio. Do the full cycle of fork, clone, commit, identify and resolve merge conflicts (20 mins)
+    + Activity 3: need to work in pairs, learn to collaborate with Git & RStudio. Do the full cycle of fork, clone, commit, identify and resolve merge conflicts
 - Summary and conclusion 
 
 ## Setup instructions
@@ -159,8 +159,13 @@ Before you join the workshop, please make sure you have the most recent versions
         <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
 </p>
 
+## Join Zoom Meeting
 
+You can join our workshop at this link:
+https://washington.zoom.us/j/97631523248?pwd=eGtsNG1MMTJkTzVnQy9YK3lLYjFyQT09
 
-
+Time: Aug 26, 2020 09:00 AM Pacific Time (US and Canada)
+Meeting ID: 976 3152 3248
+Passcode: 549527
 
 Content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
