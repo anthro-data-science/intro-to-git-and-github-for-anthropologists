@@ -165,7 +165,9 @@ You can join our workshop at this link:
 https://washington.zoom.us/j/97631523248?pwd=eGtsNG1MMTJkTzVnQy9YK3lLYjFyQT09
 
 Time: Aug 26, 2020 09:00 AM Pacific Time (US and Canada)
+
 Meeting ID: 976 3152 3248
+
 Passcode: 549527
 
 Content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
