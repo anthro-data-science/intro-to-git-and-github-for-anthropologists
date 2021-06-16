@@ -2,7 +2,7 @@
 
 Liying Wang, Anwesha Pan, Gayoung Park, Delaney Glass, Ben Marwick
 
-Our workshop slides will be included in this repository.
+Our workshop slides can be found here <a href= https://drive.google.com/file/d/1clOau7UGIq3mhp5-25O18tn3Q0ndqL4k/view?usp=sharing">
 
 ## Schedule: 
 
